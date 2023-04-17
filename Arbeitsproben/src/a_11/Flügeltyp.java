@@ -1,9 +1,0 @@
-package a_11;
-
-public enum Flügeltyp {
-	
-	DREHMECHANISMUS,
-	DREHKIPPMECHANISMUS,
-	FESTVERGLASUNG
-
-}
