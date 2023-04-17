@@ -1,0 +1,15 @@
+package a_8;
+
+public enum Rang {
+	
+	ASSISTENZARZT,
+	FACHARZT,
+	OBERARZT,
+	LEITENDER_OBERARZT,
+	CHEFARZT,
+	DIREKTOR
+	
+}
+
+
+
